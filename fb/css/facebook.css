@@ -1,0 +1,273 @@
+.viewport{
+  position:;
+  width:100%;
+  height:680px;
+  background-color: honeydew;
+  top:0;
+  left:0;
+  display:block;
+}
+.top-box{
+  width: 100%;
+  height: 10%;
+  position: absolute;
+  background-color: #3F51B5;
+
+}
+.title-name{
+  color: white;
+  position: absolute;
+  display: inline-block;
+  top: 25%;
+  left: 15%;
+  font-family: fantasy;
+  font-size: x-large
+}
+
+ .input-box1{
+   position: absolute;
+    left: 55%;
+    top: 10%;
+    display: inline-block;
+  }
+  #b1-style{
+color: floralwhite;
+font-family: monospace;
+font-size: medium;
+  }
+  #checkbox-font{
+    color:silver;
+    font-family: monospace;
+  }
+
+.input-box2{
+position: absolute;
+display: inline-block;
+left: 70%;
+top: 10%;
+}
+#b2-style{
+  color:floralwhite;
+  font-family: monospace;
+  font-size: medium;
+}
+
+#indication{
+  color:silver;
+  font-family: monospace;
+  font-size: medium;
+}
+#lg-button{
+  position: absolute;
+    display: inline-block;
+    top: 33%;
+    left: 84%;
+    background-color:#3F51B5;
+    color: floralwhite;
+    font-family: serif;
+}
+.content-box{
+  width: 41%;
+  height: 55%;
+  background-color:;
+  position: absolute;
+  display: inline-block;
+  color: black;
+  top: 10%;
+  left: 14%;
+}
+#content-text{
+  font-family:sans-serif;
+  font-size: 26px;
+  color:#281152;
+  position: absolute;
+  display: inline-block;
+  top: 10%;
+  left: 0%;
+}
+
+.content-box2{
+  width: 41%;
+      height: 70%;
+      background-color:;
+      position: absolute;
+      display: inline-block;
+      color: black;
+      top: 10%;
+      left: 57%;
+    }
+.box2-text{
+  width:100%;
+  height:20%;
+  background-color:;
+  position:absolute;
+  display:block;
+  color:black;
+
+}
+#b2-toptext{
+  color: black;
+font-size: 40px;
+font-family: sans-serif;
+position: relative;
+left: 20%;
+top: 10%
+}
+#b2-toptext2{
+  color: black;
+font-size: 20px;
+font-family:sans-serif;
+position: relative;
+left: 21%;
+top: 15%;
+}
+.firstname{
+  width: 100%;
+    height: 11%;
+    position: relative;
+    background-color:;
+    top: 17%;
+}
+#fname-box{
+  width: 40%;
+height: 85%;
+position: relative;
+left:5%;
+top:5px;
+}
+#lname-box{
+      width: 40%;
+      height: 85%;
+      position: relative;
+      left: 10%;
+      top: 5px
+}
+.phone-no-box{
+  width:100%;
+  height:11%;
+  position:relative;
+  background-color:;
+  display:block;
+  top:20%;
+}
+.re-entry-box{
+  width:100%;
+  height:11%;
+  position:relative;
+  background-color:;
+  display:block;
+  top:23%;
+
+}
+.newpassword-box{
+  width:100%;
+  height:11%;
+  position:relative;
+  background-color: ;
+  display:block;
+  top:28%;
+}
+#phone-box{
+  width:80%;
+  height:80%;
+  position:relative;
+  left:5%;
+  top:5px;
+}
+#re-box{
+  width:80%;
+  height:80%;
+  position:relative;
+  left:5%;
+  top:5px;
+}
+#pass-box{
+  width:80%;
+  height:80%;
+  position:relative;
+  left:5%;
+  top:5px;
+}
+.birthday-box{
+  width:100%;
+  height:20%;
+  position: relative;
+  background-color:;
+  top:30%;
+}
+#bday{
+  width:100%;
+  height:15%;
+  background-color:red;
+  position:absolute;
+display:block
+}
+#birthday-style{
+  font-family: sans-serif;
+  font-size: 20px;
+  position:relative;
+  color:black;
+  left:5%;
+  top:10px;
+
+}
+
+#date{
+  position:absolute;
+  left:5%;
+  top:40%;
+  display:block;
+}
+.gender-box{
+  width:80%;
+  height:40%;
+  position: absolute;
+  display:inline-block;
+  background-color:;
+  top:70%;
+  left:5%;
+}
+.information-text{
+  width:100%;
+  height:40%;
+  position: absolute;
+  display: inline;
+  background-color:;
+  top:90%;
+  color:gray;
+  font-family:sans-serif;
+padding-left:30px;
+}
+#infi-style{
+  color:blue;
+  font-family:sans-serif;
+}
+.bottom-button{
+  width: 100%;
+  height:15%;
+  position:absolute;
+  display:inline-block;
+  background-color:;
+  top:100%;
+}
+#b-button{
+  width:50%;
+  height:60%;
+  position: relative;
+  left:20%;
+  top:20%;
+  color:white;
+  background-color:green;
+}
+#button-span{
+  font-size:20px;
+  font-family:sans-serif;
+}
+#hr-line{
+background-color:violet;
+}
+#b-noti{
+  color:red;
+  font-size:15px;
+  margin-top:1px;
+  margin-right:5px;
